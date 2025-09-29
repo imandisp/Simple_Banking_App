@@ -1,5 +1,5 @@
 from bank_accounts import BankAccount
-from json_storing import save_account, load_accounts
+from db_storing import save_account, load_accounts
 
 def main(): 
 
