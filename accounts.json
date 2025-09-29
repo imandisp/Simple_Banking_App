@@ -1,0 +1,22 @@
+[
+    {
+        "owner": "Imandi",
+        "balance": 2500,
+        "account_number": 1001
+    },
+    {
+        "owner": "Herath",
+        "balance": 5000,
+        "account_number": 1002
+    },
+    {
+        "owner": "Imandi",
+        "balance": 2500,
+        "account_number": 1001
+    },
+    {
+        "owner": "TestUser",
+        "balance": 100,
+        "account_number": 1001
+    }
+]
